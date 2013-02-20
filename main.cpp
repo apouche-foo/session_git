@@ -5,7 +5,7 @@ using std::endl;
 int main (int argc, char** argv)
 {
 	cout << "Hello world !" << endl;
-	return 0;
+	return 1;
 }
 
 void foo1()
