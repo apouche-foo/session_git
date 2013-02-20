@@ -11,5 +11,4 @@ int main (int argc, char** argv)
 void foo1()
 {
 	cout << "I'm foo " << endl;
-	
 }
